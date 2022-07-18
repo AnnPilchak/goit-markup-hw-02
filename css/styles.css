@@ -11,6 +11,7 @@ body {
 
  /* HEADER */
  .header_logo {
+    font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
@@ -26,6 +27,7 @@ body {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
+    color: #212121;
 }
 .header_link:hover, 
 .header_link:focus{
@@ -68,6 +70,7 @@ body {
     letter-spacing: 0.06em;
     color: #FFFFFF;
     cursor: pointer;
+    background-color: #2196F3;
 }
 .cap_btn:hover,
 .cap_btn:focus {
@@ -129,6 +132,7 @@ body {
     background-color: #2F303A;
 }
 .footer_logo{
+    font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
